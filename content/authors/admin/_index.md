@@ -12,22 +12,14 @@ education:
     institution: University of Konstanz, Germany
     year: 2008
 first_name: K. V.
-<<<<<<< HEAD
 last_name: D.
 name_pronunciation: K. V. D.
-=======
->>>>>>> 841f6e8863e2b58e9ccb76a9cf6da32d4a3d72b7
 highlight_name: true
 interests:
 - Data Analysis
 - Neuroscience
 - Learning & Memory
 - Olfaction
-<<<<<<< HEAD
-=======
-last_name: D.
-name_pronunciation: K. V. D.
->>>>>>> 841f6e8863e2b58e9ccb76a9cf6da32d4a3d72b7
 # last organization:
 # - name: California Institute of Technology
 #   # url: https://www.stanford.edu/
@@ -70,19 +62,11 @@ role: Scientist
 #     percent: 80
 #   name: Hobbies
 social:
-<<<<<<< HEAD
 # - icon: envelope
 #   icon_pack: fas
 #   link: /#contact
 # - display:
 #     header: true
-=======
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
->>>>>>> 841f6e8863e2b58e9ccb76a9cf6da32d4a3d72b7
   # icon: twitter
   # icon_pack: fab
   # label: Follow me on Twitter
@@ -95,11 +79,7 @@ social:
   link: https://github.com/K-V-Dylla
 - icon: linkedin
   icon_pack: fab
-<<<<<<< HEAD
   link: https://www.linkedin.com/in/kristina-v-dylla-scientist/
-=======
-  link: www.linkedin.com/in/kristina-v-dylla-scientist
->>>>>>> 841f6e8863e2b58e9ccb76a9cf6da32d4a3d72b7
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
@@ -109,9 +89,6 @@ social:
 # # title: 吳健雄
 ---
 
-<<<<<<< HEAD
+
 K. V. D. is a .........................................................
-=======
-K. V. D. is a .......................................................
->>>>>>> 841f6e8863e2b58e9ccb76a9cf6da32d4a3d72b7
 {style="text-align: justify;"}
