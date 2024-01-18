@@ -11,7 +11,7 @@ education:
   - course: BS in Biological Sciences
     institution: University of Konstanz, Germany
     year: 2008
-first_name: K. V. C.
+first_name: K. V.
 last_name: D.
 highlight_name: true
 name_pronunciation: K. V. D.
