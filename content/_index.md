@@ -54,7 +54,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: California Institute of Technology
-      company_logo: "org-gc"
+      company_logo: ""
       company_url: ""
       date_end: "2023-01-01"
       date_start: "2016-01-01"
@@ -67,18 +67,18 @@ sections:
       location: California
       title: Postdoctoral Research Fellow
     - company: University of Konstanz
-      company_logo: "org-gc"
+      company_logo: ""
       company_url: ""
-      date_end: "2016-01-01"
-      date_start: "2011-01-01"
+      date_end: "2016-08-31"
+      date_start: "2011-06-01"
       description: ................................
       location: Germany
       title: PhD Candidate
     - company: Max Planck Institute of Neurobiology
-      company_logo: "org-gc"
+      company_logo: ""
       company_url: ""
-      date_end: "2011-01-01"
-      date_start: "2010-01-01"
+      date_end: "2011-03-31"
+      date_start: "2010-12-01"
       description: .......................................
       location: Germany
       title: Research Assistant
