@@ -24,43 +24,48 @@ interests:
 # - name: California Institute of Technology
 #   # url: https://www.stanford.edu/
 role: Scientist
-# skills:
-# - items:
-#   - description: ""
-#     icon: python
-#     icon_pack: fab
-#     name: Python
-#     percent: 80
-#   - description: ""
-#     icon: chart-line
-#     icon_pack: fas
-#     name: Data Science
-#     percent: 100
-#   - description: ""
-#     icon: database
-#     icon_pack: fas
-#     name: SQL
-#     percent: 40
-#   name: Technical
-# - color: '#eeac02'
-#   color_border: '#f0bf23'
-#   items:
-#   - description: ""
-#     icon: person-hiking
-#     icon_pack: fas
-#     name: Hiking
-#     percent: 60
-#   - description: ""
-#     icon: cat
-#     icon_pack: fas
-#     name: Cats
-#     percent: 100
-#   - description: ""
-#     icon: camera-retro
-#     icon_pack: fas
-#     name: Photography
-#     percent: 80
-#   name: Hobbies
+skills:
+- items:
+  - description: ""
+    icon: r-project
+    icon_pack: fab
+    name: R
+    percent: 90
+  - description: ""
+    icon: M
+    icon_pack: fas
+    name: MATLAB
+    percent: 70
+  - description: ""
+    icon: database
+    icon_pack: fas
+    name: SQL
+    percent: 30
+  - description: ""
+    icon: infinity
+    icon_pack: fas
+    name: Arduino
+    percent: 30
+  name: Data Science
+- color: '#eeac02'
+  color_border: '#f0bf23'
+  items:
+  - description: ""
+    icon: mosquito
+    icon_pack: fas
+    name: Drosophila Behavior
+    percent: 60
+  - description: ""
+    icon: microscope
+    icon_pack: fas
+    name: Calcium Imaging
+    percent: 100
+  - description: ""
+    icon: vial-circle-check
+    icon_pack: fas
+    name: Assay Development
+    percent: 80
+  name: Neuroscience
 social:
 # - icon: envelope
 #   icon_pack: fas
