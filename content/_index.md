@@ -48,6 +48,7 @@ sections:
     username: admin
   design:
     columns: "1"
+  id: skills
 - block: experience
   content:
     date_format: Jan 2006
@@ -184,6 +185,7 @@ sections:
   design:
     columns: "2"
     view: citation
+  id: unfeatured
 - block: collection
   content:
     filters:

@@ -80,6 +80,7 @@ skills:
 #     name: English
 #     percent: 90
 #   name: Language
+  id: accomplishments
 social:
 # - icon: envelope
 #   icon_pack: fas
