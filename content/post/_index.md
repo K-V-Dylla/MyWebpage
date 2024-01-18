@@ -6,4 +6,4 @@ header:
 title: Posts
 view: 2
 ---
-active: false
+activate: false
