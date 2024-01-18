@@ -54,7 +54,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: California Institute of Technology
-      company_logo: ""
+      company_logo: "org-caltech"
       company_url: ""
       date_end: "2023-01-01"
       date_start: "2016-01-01"
@@ -75,7 +75,7 @@ sections:
       location: Germany
       title: PhD Candidate
     - company: Max Planck Institute of Neurobiology
-      company_logo: ""
+      company_logo: "org-mpi"
       company_url: ""
       date_end: "2011-03-31"
       date_start: "2010-12-01"
@@ -238,7 +238,7 @@ sections:
       date_end: "2020-08-31"
       date_start: "2018-09-01"
       description: "Research Topic: Experience-dependent modulation of olfactory representations and behavior in Drosophila"
-      icon: ""
+      # icon: "org-dfg"
       organization: DFG
       organization_url: https://www.dfg.de/en
       title: Research Fellowship -- German Research Foundation
