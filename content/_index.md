@@ -110,17 +110,17 @@ sections:
 #   id: posts
 - block: portfolio
   content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
+    # buttons:
+    # - name: All
+    #   tag: '*'
+    # - name: Deep Learning
+    #   tag: Deep Learning
+    # - name: Other
+    #   tag: Demo
+    # default_button_index: 0
+    # filters:
+    #   folders:
+    #   - project
     title: Projects
   design:
     columns: "1"
@@ -225,32 +225,32 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: https://www.coursera.org/account/accomplishments/records/9DKXQJ9LXFAL
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2024-01-14"
       description: ""
       icon: coursera
       organization: Coursera
       organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      title: Introduction to Structured Query Language (SQL)
       url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+    - certificate_url: ""
+      date_end: "2020-08-31"
+      date_start: "2018-09-01"
+      description: "Research Topic: Experience-dependent modulation of olfactory representations and behavior in Drosophila"
+      icon: ""
+      organization: DFG
+      organization_url: https://www.dfg.de/en
+      title: Research Fellowship -- German Research Foundation
+      url: https://gepris.dfg.de/gepris/projekt/399245210
+    - certificate_url: ""
+      date_end: "2018-08-31"
+      date_start: "2016-09-01"
+      description: "Research Topic: Neural encoding of mixture components in the olfactory pathway of Drosophila melanogaster"
+      icon: ""
+      organization: Della Martin Foundation
+      organization_url: ""
+      title: Research Fellowship -- Della Martin Foundation
       url: ""
     subtitle: null
     title: Accomplish&shy;ments
