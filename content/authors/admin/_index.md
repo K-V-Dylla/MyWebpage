@@ -32,7 +32,7 @@ skills:
     name: R
     percent: 90
   - description: ""
-    icon: M
+    icon: m
     icon_pack: fas
     name: MATLAB
     percent: 70
@@ -54,12 +54,12 @@ skills:
     icon: mosquito
     icon_pack: fas
     name: Drosophila Behavior
-    percent: 60
+    percent: 80
   - description: ""
     icon: microscope
     icon_pack: fas
     name: Calcium Imaging
-    percent: 100
+    percent: 90
   - description: ""
     icon: vial-circle-check
     icon_pack: fas
