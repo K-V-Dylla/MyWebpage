@@ -112,6 +112,7 @@ sections:
     title: Accomplish&shy;ments
   design:
     columns: "2"
+  id: accomplishments
 # - block: collection
 #   content:
 #     count: 5
