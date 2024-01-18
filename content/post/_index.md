@@ -1,4 +1,5 @@
 ---
+activate: false
 cms_exclude: true
 header:
   caption: ""
@@ -6,4 +7,3 @@ header:
 title: Posts
 view: 2
 ---
-activate: false
