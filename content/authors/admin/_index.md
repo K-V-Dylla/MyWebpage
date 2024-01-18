@@ -13,7 +13,7 @@ education:
     year: 2008
 first_name: K. V.
 last_name: D.
-name_pronunciation: K. V. D.
+# name_pronunciation: K. V. D.
 highlight_name: true
 interests:
 - Data Analysis
