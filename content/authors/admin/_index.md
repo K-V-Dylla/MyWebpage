@@ -13,17 +13,17 @@ education:
     year: 2008
 first_name: K. V.
 last_name: D.
-# name_pronunciation: K. V. D.
 highlight_name: true
+name_pronunciation: K. V. D.
+# last organization:
+# - name: California Institute of Technology
+#   # url: https://www.stanford.edu/
+role: Scientist
 interests:
 - Data Analysis
 - Neuroscience
 - Learning & Memory
 - Olfaction
-# last organization:
-# - name: California Institute of Technology
-#   # url: https://www.stanford.edu/
-role: Scientist
 # skills:
 # - items:
 #   - description: ""
