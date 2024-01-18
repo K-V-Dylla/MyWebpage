@@ -66,6 +66,7 @@ skills:
     name: Assay Development
     percent: 80
   name: Neuroscience
+  id: accomplishments
 # - color: '#a302ee'
 #   color_border: '#a302ee'
 #   items:
@@ -80,7 +81,6 @@ skills:
 #     name: English
 #     percent: 90
 #   name: Language
-  id: accomplishments
 social:
 # - icon: envelope
 #   icon_pack: fas
