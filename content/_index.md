@@ -200,6 +200,7 @@ sections:
   design:
     columns: "2"
 - block: contact
+  active: false
   content:
     address:
       city: Stanford
