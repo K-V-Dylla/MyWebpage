@@ -85,6 +85,7 @@ sections:
     title: Experience
   design:
     columns: "2"
+  id: experience
 # - block: collection
 #   content:
 #     count: 5
