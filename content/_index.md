@@ -53,27 +53,35 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: California Institute of Technology
+      # company_logo: "org-gc"
       company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+      date_end: "2023"
+      date_start: "2016"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
+          * 
+          * 
+          * 
       location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+      title: Postdoctoral Research Fellow
+    - company: University of Konstanz
+      company_logo: ""
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2016"
+      date_start: "2011"
+      description: ""
+      location: Germany
+      title: PhD Candidate
+    - company: Max Planck Institute of Neurobiology
+      company_logo: ""
+      company_url: ""
+      date_end: "2011"
+      date_start: "2010"
+      description: ""
+      location: Germany
+      title: Research Assistant
     title: Experience
   design:
     columns: "2"
