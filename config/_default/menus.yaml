@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#unfeatured'
     weight: 40
-  - name: Talks
+  - name: Talks & Posters
     url: '#talks'
     weight: 50
   - name: Accomplishments
