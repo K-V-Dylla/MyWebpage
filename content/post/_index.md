@@ -6,4 +6,5 @@ header:
   image: ""
 title: Posts
 view: 2
+
 ---
