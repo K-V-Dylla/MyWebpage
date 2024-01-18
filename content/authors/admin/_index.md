@@ -66,6 +66,20 @@ skills:
     name: Assay Development
     percent: 80
   name: Neuroscience
+- color: '#a302ee'
+  color_border: '#a302ee'
+  items:
+  - description: ""
+    icon: comment
+    icon_pack: fas
+    name: German
+    percent: 100
+  - description: ""
+    icon: comment
+    icon_pack: fas
+    name: English
+    percent: 90
+  name: Language
 social:
 # - icon: envelope
 #   icon_pack: fas
