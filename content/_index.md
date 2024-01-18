@@ -67,7 +67,7 @@ sections:
       location: California
       title: Postdoctoral Research Fellow
     - company: University of Konstanz
-      company_logo: ""
+      company_logo: "org-uni"
       company_url: ""
       date_end: "2016-08-31"
       date_start: "2011-06-01"
