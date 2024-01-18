@@ -11,7 +11,7 @@ education:
   - course: BS in Biological Sciences
     institution: University of Konstanz, Germany
     year: 2008
-first_name: K. V.
+first_name: K. V. C.
 last_name: D.
 highlight_name: true
 name_pronunciation: K. V. D.
@@ -107,5 +107,5 @@ social:
 # superuser: true
 # # title: 吳健雄
 ---
-..................................................
+..........................................................
 {style="text-align: justify;"}
