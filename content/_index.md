@@ -118,9 +118,9 @@ sections:
     # - name: Other
     #   tag: Demo
     # default_button_index: 0
-    # filters:
-    #   folders:
-    #   - project
+    filters:
+      folders:
+      - project
     title: Projects
   design:
     columns: "1"
