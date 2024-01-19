@@ -10,7 +10,7 @@ authors:
 - Paul Szyszka
 date: "2017-06-20T00:00:00Z"
 doi: "10.3389/fncir.2017.00042"
-# featured: false
+featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""

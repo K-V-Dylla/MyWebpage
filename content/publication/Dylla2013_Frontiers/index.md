@@ -10,7 +10,7 @@ authors:
 - Alja Lüdke
 date: "2013-08-23T00:00:00Z"
 doi: "10.3389/fphys.2013.00067"
-# featured: false
+featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
