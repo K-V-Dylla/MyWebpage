@@ -4,7 +4,7 @@ abstract: 'Animal brains use the relative timing between sensory cues and behavi
 # - Equal contribution
 # - Equal contribution
 authors:
-- Kristina V. Dylla
+- admin
 - Elizabeth J. Hong
 date: "2019-06-27T00:00:00Z"
 doi: "10.1016/j.cell.2019.06.010"

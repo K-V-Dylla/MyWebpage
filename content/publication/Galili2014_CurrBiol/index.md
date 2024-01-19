@@ -13,7 +13,7 @@ We conclude that dopamine neurons integrate different noxious signals into a gen
 # - Equal contribution
 authors:
 - Dana Shani Galili
-- Kristina V. Dylla
+- admin
 - Alja Lüdke
 - Anja B. Friedrich
 - Nobuhiro Yamagata

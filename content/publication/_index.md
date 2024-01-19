@@ -4,5 +4,5 @@ banner:
   image: ""
 cms_exclude: true
 title: Publications
-view: 2
+view: 4
 ---

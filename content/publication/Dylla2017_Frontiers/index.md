@@ -4,7 +4,7 @@ abstract: "Dopaminergic neurons (DANs) signal punishment and reward during assoc
 # - Equal contribution
 # - Equal contribution
 authors:
-- Kristina V. Dylla
+- admin
 - Georg Raiser
 - C. Giovanni Galizia
 - Paul Szyszka

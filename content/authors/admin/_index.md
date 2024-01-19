@@ -11,10 +11,10 @@ education:
   - course: BS in Biological Sciences
     institution: University of Konstanz, Germany
     year: 2008
-first_name: K. V.
-last_name: D.
+# first_name: K. V.
+# last_name: D.
 highlight_name: true
-name_pronunciation: K. V. D.
+# name_pronunciation: K. V. D.
 interests:
 - Data Analysis
 - Neuroscience
@@ -105,7 +105,7 @@ social:
 # status:
 #   icon: ☕️
 # superuser: true
-# # title: 吳健雄
+title: K. V. D.
 ---
 .................................................
 {style="text-align: justify;"}

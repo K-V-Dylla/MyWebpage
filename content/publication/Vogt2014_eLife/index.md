@@ -6,7 +6,7 @@ author_notes:
 authors:
 - Katrin Vogt
 - Christopher Schnaitmann
-- Kristina V. Dylla
+- admin
 - Stephan Knapek
 - Yoshinori Aso
 - Gerald M. Rubin

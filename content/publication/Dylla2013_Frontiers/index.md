@@ -4,7 +4,7 @@ abstract: "Trace conditioning is a form of associative learning that can be indu
 # - Equal contribution
 # - Equal contribution
 authors:
-- Kristina V. Dylla
+- admin
 - Dana S. Galili
 - Paul Szyszka
 - Alja Lüdke
