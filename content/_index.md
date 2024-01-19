@@ -160,16 +160,16 @@ sections:
     columns: "2"
     view: citation
   id: unfeatured
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Talks & Posters
-  design:
-    columns: "2"
-    view: compact
-  id: talks
+# - block: collection
+#   content:
+#     filters:
+#       folders:
+#       - event
+#     title: Talks & Posters
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: talks
 # - block: tag_cloud
 #   content:
 #     title: Popular Topics
