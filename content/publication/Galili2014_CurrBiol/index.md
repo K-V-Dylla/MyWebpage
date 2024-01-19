@@ -1,7 +1,7 @@
 ---
 abstract: "Summary\n\n
 Background: 
-Drosophila learn to avoid odors that are paired with aversive stimuli. Electric shock is a potent aversive stimulus that acts via dopamine neurons to elicit avoidance of the associated odor. While dopamine signaling has been demonstrated to mediate olfactory electric shock conditioning, it remains unclear how this pathway is involved in other types of behavioral reinforcement, such as in learned avoidance of odors paired with increased temperature.\n
+*Drosophila* learn to avoid odors that are paired with aversive stimuli. Electric shock is a potent aversive stimulus that acts via dopamine neurons to elicit avoidance of the associated odor. While dopamine signaling has been demonstrated to mediate olfactory electric shock conditioning, it remains unclear how this pathway is involved in other types of behavioral reinforcement, such as in learned avoidance of odors paired with increased temperature.\n
 
 Results: 
 To better understand the neural mechanisms of distinct aversive reinforcement signals, we here established an olfactory temperature conditioning assay comparable to olfactory electric shock conditioning. We show that the AC neurons, which are internal thermal receptors expressing dTrpA1, are selectively required for odor-temperature but not for odor-shock memory. Furthermore, these separate sensory pathways for increased temperature and shock converge onto overlapping populations of dopamine neurons that signal aversive reinforcement. Temperature conditioning appears to require a subset of the dopamine neurons required for electric shock conditioning.\n

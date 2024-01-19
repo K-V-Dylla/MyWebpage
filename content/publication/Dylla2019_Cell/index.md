@@ -23,7 +23,7 @@ publishDate: "2019-06-27T00:00:00Z"
 summary: ""
 # tags:
 # - Source Themes
-title: 'Mapping Odor to Action: (Dopaminergic) Timing Is Everything'
+title: 'Mapping odor to action: (dopaminergic) timing is everything'
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930638-5
