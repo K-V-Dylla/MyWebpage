@@ -21,8 +21,8 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-projects:
-- internal-project
+# projects:
+# - internal-project
 publication: ""
 publication_short: ""
 publication_types:
@@ -32,7 +32,7 @@ slides: ''
 summary: ""
 # tags:
 # - Source Themes
-title: Restructuring of olfactory representations in the fly brain around odor relationships in natural sources.
+title: Restructuring of olfactory representations in the fly brain around odor relationships in natural sources
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://www.biorxiv.org/content/early/2023/02/16/2023.02.15.528627.full.pdf'
