@@ -1,31 +1,27 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-12-13T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by K. V. D.
   focal_point: Smart
 links:
-- icon: twitter
+- icon: ""
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-title: Example Project
+  name: Preprint
+  url: https://www.biorxiv.org/content/10.1101/2023.01.08.523155v1.full.pdf
+# slides: example
+summary: A custom device for rearing flies that allows to temporally disassociate chronic exposure to a specific odor from the presence of food.
+tags: 
+- Arduino
+title: "Building a Prototype: The Flyfood-Mover"
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+A custom device for rearing flies that allows temporal disassociation of long-lasting odor exposure and access to food was designed and constructed in collaboration with Daniel Wagenaar (Caltech Neurotechnology Laboratory). An acrylic cylinder (6 x 10 cm, ~280 cm3 volume) with an open base, which housed the flies, was positioned tightly against an acrylic platform (29.5 x 7.5 cm), which could be moved bidirectionally on a set of rails along its long axis (x-axis in Figure 7A) using a bipolar stepper motor (NEMA 17HS4401; driver: A4988, HiLetgo). The acrylic platform contained two circular cutouts (diameter 6 cm), in each of which rested a plastic Petri dish (Falcon #351007, 6 x 1.5 cm). The Petri dishes were completely filled with fly food and the surface of the food was leveled, such that all parts of the platform surface fit tightly against the base of the cylinder. A tight fit between the cylinder and the entire length of the platform was important to prevent loss of flies from the cylinder. Access to food was controlled by moving the platform to position one of the Petri dishes directly under the housing cylinder (+ food; position 2 in Figure 7A). We alternated between making each of the two Petri dishes available to flies in order to reduce the amount of time the food was exposed to air; excessive exposure to air resulted in dehydration and shrinkage of the food. In the “- food” condition, the solid plastic of the platform was positioned under the cylinder (position 1). Positions 1 and 2 were ~7.5 cm apart. The platform base was moved slowly (~0.5 mm/s) to prevent injury to the flies; transitioning from position 1 to position 2 (or vice versa) took ~2.5 min. The full device composed two acrylic cylinders for housing flies and two platforms holding the food, situated side-by-side. Both platforms were moved by the same stepper motor to allow rearing of odor-exposed and control-exposed flies in parallel.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The housing cylinder could be rapidly odorized and de-odorized. A humidified carrier stream (200 ml/min; 60-70% relative humidity) and an odor stream (100 ml/min) were combined and introduced into the cylinder, for a total constant airflow of 300 ml/min that entered the cylinder through a port (~5 mm diameter) near the top and exited through a vent located near the bottom of the cylinder on the opposite side. For the banana odor exposure group, the odor stream switched between an empty 20-ml vial (for non-odorized epochs) or one containing a ~2 cm3 piece of banana (for odorized epochs). For the control odor exposure group, the odor stream switched between two empty 20-ml vials. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Groups of ~500 flies (< 24 hours post-eclosion) of mixed sex were exposed to banana odor (or clean air in the control group) using either paired or unpaired procedures (see Results; Figure 7B) for 48 hours. After 24 hours, the odor source was replaced with a fresh sample to ensure stable odor levels, and the fly food was also replaced with fresh plates. Paired and unpaired odor exposure experiments were interleaved whenever possible. Odor concentrations inside the rearing cylinder were measured over 24 hours with a photoionization detector (200B miniPID, Aurora Scientific), sampling at 1 Hz. Coordination of the motor driving platform movement with the valves regulating odor delivery was controlled using an Arduino UNO (Arduino.cc) microcontroller board. Odor valves were switched to the next state when movement from one position to another initiated.
