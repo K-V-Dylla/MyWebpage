@@ -13,11 +13,13 @@ links:
 summary: A custom device for rearing flies that allows to temporally disassociate chronic exposure to a specific odor from the presence of food.
 tags: 
 - Arduino
+- Flyfood-Mover
 title: "Building a Prototype: The Flyfood-Mover"
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+share: false
 ---
 
 A custom device for rearing flies that allows temporal disassociation of long-lasting odor exposure and access to food was designed and constructed in collaboration with Daniel Wagenaar (Caltech Neurotechnology Laboratory). An acrylic cylinder (6 x 10 cm, ~280 cm3 volume) with an open base, which housed the flies, was positioned tightly against an acrylic platform (29.5 x 7.5 cm), which could be moved bidirectionally on a set of rails along its long axis (x-axis in Figure 7A) using a bipolar stepper motor (NEMA 17HS4401; driver: A4988, HiLetgo). The acrylic platform contained two circular cutouts (diameter 6 cm), in each of which rested a plastic Petri dish (Falcon #351007, 6 x 1.5 cm). The Petri dishes were completely filled with fly food and the surface of the food was leveled, such that all parts of the platform surface fit tightly against the base of the cylinder. A tight fit between the cylinder and the entire length of the platform was important to prevent loss of flies from the cylinder. Access to food was controlled by moving the platform to position one of the Petri dishes directly under the housing cylinder (+ food; position 2 in Figure 7A). We alternated between making each of the two Petri dishes available to flies in order to reduce the amount of time the food was exposed to air; excessive exposure to air resulted in dehydration and shrinkage of the food. In the “- food” condition, the solid plastic of the platform was positioned under the cylinder (position 1). Positions 1 and 2 were ~7.5 cm apart. The platform base was moved slowly (~0.5 mm/s) to prevent injury to the flies; transitioning from position 1 to position 2 (or vice versa) took ~2.5 min. The full device composed two acrylic cylinders for housing flies and two platforms holding the food, situated side-by-side. Both platforms were moved by the same stepper motor to allow rearing of odor-exposed and control-exposed flies in parallel.

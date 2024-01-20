@@ -14,8 +14,8 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# projects:
-# - internal-project
+projects:
+- Flyfood-Mover
 publication: ""
 publication_short: ""
 publication_types:
@@ -23,14 +23,14 @@ publication_types:
 publishDate: "2023-01-08T00:00:00Z"
 slides: ''
 summary: Early life exposure to odors increases their attractiveness in adult flies.
-# tags:
-# - Source Themes
+tags:
+- Flyfood-Mover
 title: Early life experience with natural odors modifies olfactory behavior through an associative process
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.01.08.523155v1.full.pdf'
 url_poster: ''
-url_project: ""
+url_project: "Flyfood-Mover"
 url_slides: ""
 url_source: ''
 url_video: ''

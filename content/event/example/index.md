@@ -25,8 +25,8 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 location: Hugo Blox Builder HQ
-projects:
-- example
+# projects:
+# - example
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
