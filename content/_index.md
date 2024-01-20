@@ -47,7 +47,7 @@ sections:
     title: Skills
     username: admin
   design:
-    columns: "1"
+    columns: "2"
   id: skills
 - block: experience
   content:
