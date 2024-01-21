@@ -6,7 +6,7 @@ slides:
   highlight_style: dracula
   theme: black
 summary: Details about the design and function of the Flyfood-Mover.
-tags: Flyfood-Mover
+tags: []
 title: Flyfood-Mover Function
 ---
 
