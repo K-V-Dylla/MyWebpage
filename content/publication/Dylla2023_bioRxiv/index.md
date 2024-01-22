@@ -26,6 +26,7 @@ slides: ''
 summary: Early life exposure to odors increases their attractiveness in adult flies.
 tags:
 - Flyfood-Mover
+- Trap Assay
 title: Early life experience with natural odors modifies olfactory behavior through an associative process
 url_code: ''
 url_dataset: ''
