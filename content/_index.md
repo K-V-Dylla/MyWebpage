@@ -121,7 +121,7 @@ sections:
     filters:
       folders:
       - project
-    title: Projects
+    title: Recent Projects
   design:
     columns: "1"
     flip_alt_rows: false
@@ -225,6 +225,15 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - certificate_url: https://www.coursera.org/account/accomplishments/records/D6SKDUSRR58V
+      date_end: ""
+      date_start: "2024-01-20"
+      description: ""
+      icon: coursera
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: The Structured Query Language (SQL)
+      url: ""
     - certificate_url: https://www.coursera.org/account/accomplishments/records/9DKXQJ9LXFAL
       date_end: ""
       date_start: "2024-01-14"
