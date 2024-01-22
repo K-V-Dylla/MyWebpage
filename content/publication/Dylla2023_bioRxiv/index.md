@@ -16,6 +16,7 @@ featured: false
 #   url: http://example.org
 projects:
 - Flyfood-Mover
+- Trap Assay
 publication: ""
 publication_short: ""
 publication_types:
