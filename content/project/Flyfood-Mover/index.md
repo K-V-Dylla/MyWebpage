@@ -32,8 +32,6 @@ The device consisted of an acrylic cylinder with an open base, which housed the 
 
 The housing cylinder could be rapidly odorized and de-odorized. A humidified carrier stream and an odor stream were combined and introduced into the cylinder, for a total constant airflow that entered the cylinder through a port near the top and exited through a vent located near the bottom of the cylinder on the opposite side. 
 
-{{< video library="true" src="FFM-video.avi" controls="yes">}}
+{{< video src="C:/Users/Kristina/Desktop/FFM-video.avi" controls="yes">}}
 
 Coordination of the motor driving platform movement with the valves regulating odor delivery was controlled using an Arduino UNO microcontroller board. 
-
-test
