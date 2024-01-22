@@ -32,7 +32,7 @@ url_code: ''
 url_dataset: ''
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.01.08.523155v1.full.pdf'
 url_poster: ''
-url_project: "Flyfood-Mover"
+url_project: ["Flyfood-Mover", "Trap Assay"]
 url_slides: ""
 url_source: ''
 url_video: ''
