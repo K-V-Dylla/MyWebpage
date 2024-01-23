@@ -50,17 +50,17 @@ skills:
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: ""
+  - description: "T-maze, trap assay, trackball, learning & memory"
     icon: mosquito
     icon_pack: fas
     name: Drosophila Behavior
     percent: 80
-  - description: ""
+  - description: "2P, wide-field, dual color, volumetric, single plane"
     icon: microscope
     icon_pack: fas
     name: Calcium Imaging
     percent: 90
-  - description: ""
+  - description: "behavioral assays, stimulus control"
     icon: vial-circle-check
     icon_pack: fas
     name: Assay Development
