@@ -61,9 +61,14 @@ sections:
       description: |2-
           Responsibilities include:
 
-          * .........................
-          * .........................
-          * .........................
+          * Project lead
+          * Collaboration projects
+          * Data collection and analysis 
+          * Building analysis pipelines 
+          * Assay development 
+          * Lab safety coordinator
+          * Recruitment of research assistants
+          * Mentoring
       location: California
       title: Postdoctoral Research Fellow
     - company: University of Konstanz
