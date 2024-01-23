@@ -26,22 +26,22 @@ interests:
 role: Scientist
 skills:
 - items:
-  - description: ""
+  - description: "data analysis, visualization, statistics"
     icon: r-project
     icon_pack: fab
     name: R
     percent: 90
-  - description: ""
+  - description: "image processing, data acquisition, stimulus control"
     icon: m
     icon_pack: fas
     name: MATLAB
     percent: 70
-  - description: ""
+  - description: "basic knowledge in MySQL and PostgreSQL"
     icon: database
     icon_pack: fas
     name: SQL
     percent: 30
-  - description: ""
+  - description: "device control, sensor applications, data logging"
     icon: infinity
     icon_pack: fas
     name: Arduino
@@ -60,7 +60,7 @@ skills:
     icon_pack: fas
     name: Calcium Imaging
     percent: 90
-  - description: "behavioral assays, stimulus control"
+  - description: "olfactory behavioral assays, devices for stimulus control"
     icon: vial-circle-check
     icon_pack: fas
     name: Assay Development
