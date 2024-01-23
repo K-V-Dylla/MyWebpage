@@ -56,8 +56,8 @@ sections:
     - company: California Institute of Technology
       company_logo: "org-caltech"
       company_url: ""
-      date_end: "2023-01-01"
-      date_start: "2016-01-01"
+      date_end: "2023-06-30"
+      date_start: "2016-09-01"
       description: |2-
           Responsibilities include:
 
@@ -66,8 +66,10 @@ sections:
           * Data collection and analysis 
           * Building analysis pipelines 
           * Assay development 
+          * Scientific writing and presenting
+          * Publishing
           * Lab safety coordinator
-          * Recruitment of research assistants
+          * Recruitment and training of research assistants
           * Mentoring
       location: California
       title: Postdoctoral Research Fellow
@@ -76,7 +78,21 @@ sections:
       company_url: ""
       date_end: "2016-08-31"
       date_start: "2011-06-01"
-      description: ................................
+      description:  |2-
+          Responsibilities include:
+
+          * Project lead
+          * Collaboration projects
+          * Data collection and analysis 
+          * Building analysis pipelines 
+          * Assay development 
+          * Scientific writing and presenting
+          * Publishing
+          * Training of research assistants
+          * Teaching assistant
+          * Mentoring
+          * Managing a journal club
+          * Public outreach activities
       location: Germany
       title: PhD Candidate
     - company: Max Planck Institute of Neurobiology
@@ -84,7 +100,11 @@ sections:
       company_url: ""
       date_end: "2011-03-31"
       date_start: "2010-12-01"
-      description: .......................................
+      description:  |2-
+          Responsibilities include:
+
+          * Data collection and analysis 
+          * Scientific writing and presenting
       location: Germany
       title: Research Assistant
     title: Experience
