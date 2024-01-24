@@ -60,7 +60,7 @@ skills:
     icon_pack: fas
     name: Calcium Imaging
     percent: 90
-  - description: "olfactory behavioral assays, devices for stimulus control"
+  - description: "behavioral assays, devices for stimulus control"
     icon: vial-circle-check
     icon_pack: fas
     name: Assay Development
@@ -107,5 +107,9 @@ social:
 # superuser: true
 title: K. V. D.
 ---
-.................................................
+
+I am a trained neuroscientist with a strong background in data analysis. Although my undergraduate focus was primarily on microbiology, my trajectory shifted during a summer internship abroad when I found myself placed in a neuroscience lab by chance. Despite initial disappointment, I soon discovered the captivating nature of neuroscience, particularly the ability to directly observe brain activity. Since that experience, behavioral and systems neuroscience has become my research focus. My expertise lies in olfactory learning and memory of the fruit fly *Drosophila*. 
+
+While I appreciate the hands-on aspects of lab work, I am equally passionate about data analysis. I have more than 12 years of experience collecting behavioral and calcium imaging data, and analyzing those diverse datasets by writing customized analysis pipelines. The most rewarding aspect of my job is uncovering hidden features within each dataset and thereby gaining new knowledge. 
+
 {style="text-align: justify;"}
