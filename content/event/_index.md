@@ -4,5 +4,5 @@ header:
   caption: ""
   image: ""
 title: Talks & Posters
-view: 2
+view: 4
 ---
