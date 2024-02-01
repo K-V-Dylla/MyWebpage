@@ -11,8 +11,8 @@ education:
   - course: BS in Biological Sciences
     institution: University of Konstanz, Germany
     year: 2008
-# first_name: Kristina V.
-# last_name: Dylla
+# first_name: K. V.
+# last_name: D.
 highlight_name: true
 # name_pronunciation: K. V. D.
 interests:
@@ -105,7 +105,7 @@ social:
 # status:
 #   icon: ☕️
 # superuser: true
-title: Kristina V. Dylla
+title: K. V. D.
 ---
 
 I am a trained neuroscientist with a strong background in data analysis. Although my undergraduate focus was primarily on microbiology, my trajectory shifted during a summer internship abroad when I found myself placed in a neuroscience lab by chance. Despite my initial disappointment, I soon discovered the captivating nature of neuroscience, particularly the ability to directly observe brain activity. Since that experience, behavioral and systems neuroscience has become my research focus. My expertise lies in olfactory learning and memory of the fruit fly *Drosophila*. 
