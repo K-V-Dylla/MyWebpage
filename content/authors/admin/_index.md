@@ -11,8 +11,8 @@ education:
   - course: BS in Biological Sciences
     institution: University of Konstanz, Germany
     year: 2008
-# first_name: K. V.
-# last_name: D.
+# first_name: Kristina V.
+# last_name: Dylla
 highlight_name: true
 # name_pronunciation: K. V. D.
 interests:
@@ -105,11 +105,11 @@ social:
 # status:
 #   icon: ☕️
 # superuser: true
-title: K. V. D.
+title: Kristina V. Dylla
 ---
 
-I am a trained neuroscientist with a strong background in data analysis. Although my undergraduate focus was primarily on microbiology, my trajectory shifted during a summer internship abroad when I found myself placed in a neuroscience lab by chance. Despite initial disappointment, I soon discovered the captivating nature of neuroscience, particularly the ability to directly observe brain activity. Since that experience, behavioral and systems neuroscience has become my research focus. My expertise lies in olfactory learning and memory of the fruit fly *Drosophila*. 
+I am a trained neuroscientist with a strong background in data analysis. Although my undergraduate focus was primarily on microbiology, my trajectory shifted during a summer internship abroad when I found myself placed in a neuroscience lab by chance. Despite my initial disappointment, I soon discovered the captivating nature of neuroscience, particularly the ability to directly observe brain activity. Since that experience, behavioral and systems neuroscience has become my research focus. My expertise lies in olfactory learning and memory of the fruit fly *Drosophila*. 
 
-While I appreciate the hands-on aspects of lab work, I am equally passionate about data analysis. I have more than 12 years of experience collecting behavioral and calcium imaging data, and analyzing those diverse datasets by writing customized analysis pipelines. The most rewarding aspect of my job is uncovering hidden features within each dataset and thereby gaining new knowledge. 
+While I appreciate the hands-on aspects of lab work, I am truly passionate about data analysis. I have more than 12 years of experience collecting behavioral and calcium imaging data, and analyzing those diverse datasets by creating custom analysis pipelines. The most rewarding aspect of my job is uncovering hidden features within each dataset and making the newly gained knowledge accessible and comprehensible to everyone. 
 
 {style="text-align: justify;"}
