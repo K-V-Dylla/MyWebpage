@@ -19,7 +19,7 @@ featured: false
 publication: '*Poster, IMPRS for Organismal Biology Evaluation, Seewiesen, Germany*'
 publication_short: ""
 publication_types:
-- review
+- poster
 publishDate: "2013-01-01T00:00:00Z"
 # slides: example
 summary: ""
@@ -34,6 +34,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+share: false
 # 
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

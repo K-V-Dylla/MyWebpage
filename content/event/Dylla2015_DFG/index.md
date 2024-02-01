@@ -10,7 +10,7 @@ authors:
 - Hiromu Tanimoto
 - C. Giovanni Galizia
 - Paul Szyszka
-date: "2015-01-01T00:00:00Z"
+date: "2015-03-18T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -21,8 +21,8 @@ featured: false
 publication: '*Poster, 11th Göttingen Meeting of the German Neuroscience Society, Göttingen, Germany*'
 publication_short: ""
 publication_types:
-- review
-publishDate: "2015-01-01T00:00:00Z"
+- poster
+publishDate: "2015-03-18T00:00:00Z"
 # slides: example
 summary: ""
 # tags:
@@ -36,6 +36,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+share: false
 # 
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

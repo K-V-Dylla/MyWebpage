@@ -5,9 +5,7 @@
 # - Equal contribution
 authors:
 - admin
-- Thomas F. O’Connell
-- Elizabeth J. Hong
-date: "2020-08-03T00:00:00Z"
+date: "2019-12-10T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -15,16 +13,16 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 # projects: []
-publication: '*Poster, International Symposium on Olfaction and Taste 2020 - Association for Chemoreception Sciences, Virtual Conference*'
+publication: '*Departmental talk*'
 publication_short: ""
 publication_types:
-- poster
-publishDate: "2020-08-03T00:00:00Z"
+- talk
+publishDate: "2019-12-10T00:00:00Z"
 # slides: example
 summary: ""
 # tags:
 # - Source Themes
-title: 'Early life experience with natural odors modifies olfactory behavior in Drosophila'
+title: 'Experience-dependent modulation of olfactory behavior in Drosophila'
 url_code: ""
 url_dataset: ""
 url_pdf: ""

@@ -1,5 +1,5 @@
 ---
-# abstract: ""
+abstract: "In classical conditioning, animals learn to associate a neutral stimulus (CS) with a reinforcing stimulus (US). Associative learning is effective both when CS and US are overlapping in time (delay conditioning), or when there is a temporal gap between the stimuli (trace conditioning). In order to associate stimuli which are separated in time the sensory systems must keep a neural representation of the first stimulus after its termination (i.e. a stimulus trace). *Drosophila* and other insects are able to solve the olfactory trace conditioning task. However, the neural substrate of the underlying odor trace is not known. Using in vivo calcium imaging, we investigated whether and how olfactory information is kept in the first olfactory brain area, the antennal lobe, of *Drosophila*. We measured spatio-temporal patterns of odor responses and post-odor responses in olfactory glomeruli, which are the functional units of the antennal lobe."
 # author_notes:
 # - Equal contribution
 # - Equal contribution
@@ -8,7 +8,7 @@ authors:
 - admin
 - C. Giovanni Galizia
 - Paul Szyszka
-date: "2012-01-01T00:00:00Z"
+date: "2012-09-21T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -19,8 +19,8 @@ featured: false
 publication: '*Poster, 105th Annual Meeting of the German Zoological Society, Konstanz, Germany*'
 publication_short: ""
 publication_types:
-- review
-publishDate: "2012-01-01T00:00:00Z"
+- poster
+publishDate: "2012-09-21T00:00:00Z"
 # slides: example
 summary: ""
 # tags:
@@ -34,6 +34,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+share: false
 # 
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
