@@ -22,13 +22,13 @@ url_video: ""
 share: false
 ---
 
-**Motivation:** For my most recent research project at Caltech [(preprint)](https://www.biorxiv.org/content/10.1101/2023.01.08.523155v1), I needed a way to rear fruit flies in an environment where they could be exposed to
+**Motivation:** In my most recent research project at Caltech [(preprint)](https://www.biorxiv.org/content/10.1101/2023.01.08.523155v1), I needed a way to rear fruit flies in an environment where they could undergo exposure to:
 
-**(1)** either food or odor in an alternating manner ('unpaired'; 30-min intervals, over the course of 2 days)  
+**(1)** either food or odor in an alternating manner ('unpaired'; 30-min intervals over the course of 2 days)  
 or   
-**(2)** both odor and food simultaneously, followed by a stimulus-free period ('paired'; 30-min intervals, over the course of 2 days). 
+**(2)** both odor and food simultaneously, followed by a stimulus-free period ('paired'; 30-min intervals over the course of 2 days). 
 
-It was clear that this process had to be automatized. Hence, I collaborated with Daniel Wagenaar and Elizabeth Hong to design and build such a device. It got the nickname 'Flyfood-Mover', capturing it's function quite accurately.
+Obviously, this process had to be automatized. Hence, I collaborated with Daniel Wagenaar and Elizabeth Hong to design and build a device specifically for this purpose. The device got the nickname 'Flyfood-Mover', capturing it's function quite accurately.
 
 {{< figure library="true" src="FFM-schematics.jpg" width="50%" title="Schematic view of the Flyfood-Mover (Dylla et al., 2023)." lightbox="false" >}}
 
@@ -42,6 +42,6 @@ It was clear that this process had to be automatized. Hence, I collaborated with
 
 **Setup control:** Coordination of the motor driving platform movement with the valves regulating odor delivery was controlled using an Arduino UNO microcontroller board. 
 
-**Usability:** Although it required a lot of troubleshooting and redesigning, the final product proofed to be a powerful tool for behavioral experiments. The Flyfood-Mover allowed me to conduct the challenging experiment described above, yielding compelling new results. But it's application is not limited to the current use case, as the exposure paradigms and stimuli can be easily modified. I conducted some preliminary trials using it as oviposition assay, for example.
+**Usability:** Although it required a lot of troubleshooting and redesigning, the final product proofed to be a powerful tool for behavioral experiments. The Flyfood-Mover allowed me to conduct the challenging experiment described above, yielding compelling new results. But it's application is not limited to the current use case, as the exposure paradigms and stimuli can be modified easily. I conducted some preliminary trials using it as oviposition assay, for example.
 
 {{< figure library="true" src="FFM-setupannotated.jpg" width="80%" title="The Flyfood-Mover -- what the prototype really looks like." lightbox="false" >}}
