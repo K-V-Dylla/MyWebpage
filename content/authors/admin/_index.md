@@ -46,6 +46,11 @@ skills:
     icon_pack: fas
     name: Arduino
     percent: 30
+  - description: "data visualization"
+    icon: python
+    icon_pack: fas
+    name: Python
+    percent: 10
   name: Data Science
 - color: '#eeac02'
   color_border: '#f0bf23'

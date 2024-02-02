@@ -155,7 +155,7 @@ sections:
 - block: markdown
   content:
     subtitle: ""
-    text: '{{< gallery album="demo" >}}'
+    text: '{{< gallery album="AtWork" >}}'
     title: At Work Pictures
   design:
     columns: "1"
