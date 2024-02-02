@@ -152,13 +152,14 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-# - block: markdown
-#   content:
-#     subtitle: ""
-#     text: '{{< gallery album="demo" >}}'
-#     title: Gallery
-#   design:
-#     columns: "1"
+- block: markdown
+  content:
+    subtitle: ""
+    text: '{{< gallery album="demo" >}}'
+    title: At Work Pictures
+  design:
+    columns: "1"
+  id: gallery
 # - block: collection
 #   content:
 #     filters:

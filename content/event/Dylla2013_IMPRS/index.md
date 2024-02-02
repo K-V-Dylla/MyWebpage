@@ -8,7 +8,7 @@ authors:
 - Alja Lüdke  
 - C. Giovanni Galizia
 - Paul Szyszka
-date: "2013-01-01T00:00:00Z"
+date: "2013-09-25T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -20,7 +20,7 @@ publication: '*Poster, IMPRS for Organismal Biology Evaluation, Seewiesen, Germa
 publication_short: ""
 publication_types:
 - poster
-publishDate: "2013-01-01T00:00:00Z"
+publishDate: "2013-09-25T00:00:00Z"
 # slides: example
 summary: ""
 # tags:

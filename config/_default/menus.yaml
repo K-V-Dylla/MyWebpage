@@ -19,6 +19,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
+  - name: At Work Pictures
+    url: '#gallery'
+    weight: 35
   - name: Publications
     url: '#unfeatured'
     weight: 40
