@@ -47,7 +47,7 @@ skills:
     name: Arduino
     percent: 30
   - description: "data visualization"
-    icon: p
+    icon: python
     icon_pack: fas
     name: Python
     percent: 10
