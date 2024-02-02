@@ -41,11 +41,11 @@ skills:
     icon_pack: fas
     name: SQL
     percent: 30
-  # - description: "device control, sensor applications, data logging"
-  #   icon: infinity
-  #   icon_pack: fas
-  #   name: Arduino
-  #   percent: 30
+  - description: "device control, sensor applications, data logging"
+    icon: infinity
+    icon_pack: fas
+    name: Arduino
+    percent: 30
   - description: "data visualization"
     icon: python
     icon_pack: fas
